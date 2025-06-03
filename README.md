@@ -14,8 +14,8 @@ In today's data-centric world, organizations face the challenge of not only stor
 3. **Aid Decision-Making:** Present the generated insights in a user-friendly manner to enable stakeholders to make informed decisions based on accurate and comprehensive data analysis.
 
 ### Team Members
-- Vishawjeet Singh
 - Manjot Kaur
+- Vishawjeet Singh
 - Parmeet Kaur
 - Arshdeep Singh
 - Ratanveer Singh
