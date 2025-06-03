@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AgriTech
-=======
-
 # AgriTech
 A project completed during Intel® Unnati Industrial Training Program 2024.
 
@@ -59,9 +55,3 @@ Simply visit **https://agritechai.vercel.app/** or follow following methods to r
 - In file **/src/FrontEnd/configurations/address.ts**, Replace "https://agritechbackendflask.onrender.com" with "http://127.0.0.1:5000".
 - Run your app with command:
     ##### ***npm run dev***
-
-
-
-
-
->>>>>>> 4ef2cab (Initial Commit)
